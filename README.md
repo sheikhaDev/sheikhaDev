@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sheikhaDev
 - 👀 I’m interested in web devlopment
 - 🌱 I’m software engineering 
-- 💞️ I’m looking for job ...
+- 💞️ technology lover ...
+
 
 
 <!---
